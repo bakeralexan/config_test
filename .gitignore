@@ -41,3 +41,5 @@ vignettes/*.pdf
 # password script
 *-config.R
 *-config2.R
+config.R
+config2.R
