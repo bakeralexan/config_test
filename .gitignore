@@ -43,3 +43,5 @@ vignettes/*.pdf
 *-config2.R
 config.R
 config2.R
+config.r
+config2.r
