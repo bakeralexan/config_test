@@ -40,5 +40,4 @@ vignettes/*.pdf
 
 # password script
 *-config.R
-config.R
-C:/Users/abaker/Documents/config_test/config.R
+*-config2.R
